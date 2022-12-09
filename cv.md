@@ -26,7 +26,8 @@ _I am 26 years old. I am a lawyer, but I am currently on maternity leave. I was 
 
 ## Code Example
 
-```function multiply(a, b){
+```
+function multiply(a, b){
   return a * b
 }
 const assert = require("chai").assert;
@@ -40,3 +41,7 @@ describe("Multiply", () => {
   });
 });
 ```
+
+## Languages
+
+- English - Intermediate
