@@ -1,4 +1,4 @@
-![photo](C:\Users\Viktoria\Desktop\IMG_1565.JPG)
+![photo](IMG_1566.JPG)
 
 # VICTORIA KACHENYA
 
