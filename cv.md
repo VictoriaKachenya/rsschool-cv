@@ -1,4 +1,4 @@
-![photo](D:/фото с айфона/IMG_1565.JPG "Фото")
+![photo](D:/фото с айфона/IMG_1565.jpg "Photo")
 
 # VICTORIA KACHENYA
 
