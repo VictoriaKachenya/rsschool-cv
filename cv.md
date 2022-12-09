@@ -1,4 +1,4 @@
-![photo](D:/фото с айфона/IMG_1565.jpg "Photo")
+![photo](C:\Users\Viktoria\Desktop\IMG_1565.JPG.lnk "Photo")
 
 # VICTORIA KACHENYA
 
