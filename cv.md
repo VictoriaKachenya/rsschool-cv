@@ -1,4 +1,4 @@
-![photo](IMG_1566.JPG)
+![photo](IMG_1566.jpg)
 
 # VICTORIA KACHENYA
 
@@ -16,7 +16,7 @@ _I am 26 years old. I am a lawyer, but I am currently on maternity leave. I was 
 
 ## Skills
 
-- HTML
+- HTML (basic)
 - CSS (basic)
 - Java Script (in process)
 
