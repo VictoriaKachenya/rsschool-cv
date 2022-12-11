@@ -1,1 +1,1 @@
-https://github.com/VictoriaKachenya/rsschool-cv/blob/gh-pages/cv.md
+https://VictoriaKachenya.github.io/rsschool-cv/cv
