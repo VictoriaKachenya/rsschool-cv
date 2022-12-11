@@ -42,6 +42,6 @@ describe("Multiply", () => {
 });
 ```
 
-## Languages
+## Language
 
 - English - Intermediate
