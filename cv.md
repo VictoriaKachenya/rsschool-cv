@@ -1,4 +1,4 @@
-![photo](photo.jpg)
+![photo](rsschool-cv\photo.JPG)
 
 # VICTORIA KACHENYA
 
