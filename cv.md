@@ -1,5 +1,3 @@
-![photo](/Viktoria/Desktop/IMG_1565.png.lnk)
-
 # VICTORIA KACHENYA
 
 ## Contacts
