@@ -1,4 +1,4 @@
-![photo](C:\Users\Viktoria\Desktop\rs_school\rsschool-cv\IMG_1565.jpg.lnk)
+![photo](IMG_1565.jpg)
 
 # VICTORIA KACHENYA
 
