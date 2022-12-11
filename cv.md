@@ -1,4 +1,4 @@
-![photo](IMG_1565.jpg)
+![photo](photo.jpg)
 
 # VICTORIA KACHENYA
 
