@@ -1,14 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Inter:regular,600,800);
-
 * {
     margin: 0;
     padding: 0;
 }
-
 html {
     scroll-behavior: smooth;
 }
-
 body {
     font-family: "Inter";
     font-weight: 400;
@@ -20,52 +17,43 @@ body {
     flex-direction: column;
     justify-content: space-between;
 }
-
 header,
 main {
     margin: 10px;
 }
-
 .my_photo {
     width: 170px;
     height: 220px;
     border-radius: 15%;
 }
-
 * {
     box-sizing: border-box;
 }
-
 .container {
     max-width: 1440px;
     margin: 0 auto;
 }
-
 .nav {
     display: flex;
     justify-content: flex-end;
     align-items: center;
 }
-
 .nav-list {
     display: flex;
     justify-content: flex-end;
     align-items: center;
     list-style: none;
 }
-
 .nav-link {
     padding: 0 20px;
     line-height: 50px;
     text-decoration: none;
     color: #383029;
 }
-
 .main-container {
     display: flex;
     flex-wrap: wrap;
 }
-
 section {
     margin-bottom: 20px;
     font-size: 16px;
@@ -73,7 +61,6 @@ section {
     letter-spacing: 1px;
     color: #252333;
 }
-
 .footer {
     display: flex;
     justify-content: space-between;
@@ -81,18 +68,15 @@ section {
 
     background-color: rgb(134, 105, 84);
 }
-
 .img_rs_school {
     height: 80px;
     width: 160px;
 }
-
 .img_github_logo {
     border-radius: 50%;
     height: 100px;
     width: 200px;
 }
-
 .year {
     color: #efeef8;
 }
