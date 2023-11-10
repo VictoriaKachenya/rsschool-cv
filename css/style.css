@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Inter:regular,600,800);
 
-*{
+* {
     margin: 0;
     padding: 0;
 }
@@ -21,51 +21,55 @@ body {
     justify-content: space-between;
 }
 
-header, main{
+header,
+main {
     margin: 10px;
 }
 
-button{
-    display: inline-block;	
-	box-sizing: border-box;
-	padding: 0 25px;
-	margin: 0 15px 15px 0;
-	outline: none;
-	border: 1px solid #fff;
-	border-radius: 50px;
-	height: 46px;
-	line-height: 46px;
-	font-size: 14px;
-	font-weight: 600;
-	text-decoration: none;
-	color: #444;
-	background-color: #fff;
-	box-shadow: 0 4px 6px rgb(65 132 144 / 10%), 0 1px 3px rgb(0 0 0 / 8%);
-	cursor: pointer;
-	user-select: none;
-	appearance: none;
-	touch-action: manipulation;  
-	vertical-align: top;
-	transition: box-shadow 0.2s;
+button {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0 25px;
+    margin: 0 15px 15px 0;
+    outline: none;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    height: 46px;
+    line-height: 46px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #444;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgb(65 132 144 / 10%), 0 1px 3px rgb(0 0 0 / 8%);
+    cursor: pointer;
+    user-select: none;
+    appearance: none;
+    touch-action: manipulation;
+    vertical-align: top;
+    transition: box-shadow 0.2s;
 }
 
 button:focus-visible {
-	border: 1px solid #4c51f9;
-	outline: none;
+    border: 1px solid #4c51f9;
+    outline: none;
 }
+
 button:hover {
-	transition: all 0.2s;
-	box-shadow: 0 7px 14px rgb(65 132 144 / 10%), 0 3px 6px rgb(0 0 0 / 8%);
+    transition: all 0.2s;
+    box-shadow: 0 7px 14px rgb(65 132 144 / 10%), 0 3px 6px rgb(0 0 0 / 8%);
     background-color: rgb(228, 227, 207);
 }
+
 button:active {
-	background-color: #c8bebe;
+    background-color: #c8bebe;
 }
+
 button:disabled {
-	background-color: #eee;
-	border-color: #eee;
-	color: #444;
-	cursor: not-allowed;
+    background-color: #eee;
+    border-color: #eee;
+    color: #444;
+    cursor: not-allowed;
 }
 
 
@@ -118,7 +122,7 @@ section {
     color: #252333;
 }
 
-.footer{
+.footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -126,16 +130,17 @@ section {
     background-color: rgb(134, 105, 84);
 }
 
-.img_rs_school{
-height: 80px;
-width: 160px;
+.img_rs_school {
+    height: 80px;
+    width: 160px;
 }
 
-.img_github_logo{
+.img_github_logo {
     border-radius: 50%;
-height: 100px;
-width: 200px;
+    height: 100px;
+    width: 200px;
 }
-.year{
+
+.year {
     color: #efeef8;
 }
