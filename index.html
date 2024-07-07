@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,10 +9,9 @@
     <link rel="icon" href="./assets/unnamed.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 </head>
-
 <body>
-    <header>
-        <div class="container">
+    <header class="header">
+        <div class="header_container">
             <nav class="nav">
                 <ul class="nav-list">
                     <li><a href="#main" class="nav-link">Main</a></li>
@@ -29,7 +27,7 @@
     </header>
     <main class="main-container">
         <div class="container">
-            <img src="assets/photo.JPG" alt="my photo">
+            <img class="my_photo" src="assets/photo.JPG" alt="my-photo">
             <section>
                 <h1 id="main">VICTORIA KACHENYA</h1>
                 <hr>
@@ -48,7 +46,7 @@
             <section>
                 <h2 id="aboutme">About me</h2>
                 <hr>
-                <p id="p1">I am 26 years old. I am a lawyer, but I am currently on maternity leave. I was a little bit
+                <p id="p1">I am 28 years old. I am a lawyer, but I am currently on maternity leave. I was a little bit
                     disappointed in my field, so I decided to change my profession. I’ve watched a lot of Youtube videos
                     about IT specialties, in particular about Front-end developers. All this interested me. I really
                     want to get skills which help me in the futute to find a lovely job. By the way, my husband inspired
@@ -61,7 +59,7 @@
                 <ul>
                     <li>HTML (basic)</li>
                     <li>CSS (basic)</li>
-                    <li>Java Script (in process)</li>
+                    <li>Java Script (basic)</li>
                 </ul>
             </section>
             <section>
@@ -77,22 +75,21 @@
                 <pre>
 <code>
         function multiply(a, b){
-            return a * b
-          }
-          const assert = require("chai").assert;
-
-          describe("Multiply", () => {
+        return a * b
+        }
+        const assert = require("chai").assert;
+        describe("Multiply", () => {
             it("fixed tests", () => {
-              assert.strictEqual(multiply(1,1), 1);
-              assert.strictEqual(multiply(2,1), 2);
-              assert.strictEqual(multiply(2,2), 4);
-              assert.strictEqual(multiply(3,5), 15);
+            assert.strictEqual(multiply(1,1), 1);
+            assert.strictEqual(multiply(2,1), 2);
+            assert.strictEqual(multiply(2,2), 4);
+            assert.strictEqual(multiply(3,5), 15);
             });
-          });
+        });
 </code>
 </pre>
             </section>
-            ><section>
+            <section>
                 <h2 id="languages">Languages</h2>
                 <hr>
                 <ul>
@@ -102,11 +99,10 @@
         </div>
     </main>
     <footer>
-        <div class="container">
-            <img src="./assets/rs_school_js.ico" alt="course logo">
-            <a href="https://github.com/VictoriaKachenya">My GitHub account</a>
-            <p>2022 year</p>
-            <a href="https://rs.school/js/"></a>
+        <div class="footer">
+            <a href="https://rs.school/courses/javascript-preschool-ru"><img class="rs_logo" src="./assets/rs_school_js.ico" alt="course logo"></a>
+            <p>2024 year</p>
+            <a href="https://github.com/VictoriaKachenya"><img class="github_logo" src="./assets/github.jpg" alt="My_github_account"></a>
         </div>
     </footer>
 </body>
