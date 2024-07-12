@@ -1,4 +1,4 @@
-![photo](assets/photo.JPG)
+![photo](./assets/photo.JPG)
 
 # VICTORIA KACHENYA
 
